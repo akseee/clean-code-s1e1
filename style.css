@@ -17,7 +17,8 @@ body {
   font-family: fantasy, cursive;
 }
 
-@media (max-width:768px) {.info-section {
+@media (max-width:768px) {
+  .info-section {
     text-align: center;
 }
 }
@@ -52,7 +53,7 @@ button {
   width: 60px;
   font-family: Lato, sans-serif;
   cursor: pointer;
-
+}
 button:hover {
   color: #3a3a3a;
 }
