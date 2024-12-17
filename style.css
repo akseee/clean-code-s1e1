@@ -161,11 +161,11 @@ input[type="text"]:focus {
   display: none;
 }
 
-.tasks__item--edit-mode .tasks__input  {
+.editMode .tasks__input {
   display: inline-block;
   width: 224px;
 }
 
-.tasks__item--edit-mode .tasks__label {
+.editMode .tasks__label {
   display: none;
 }
